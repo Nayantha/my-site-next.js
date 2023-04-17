@@ -39,3 +39,7 @@ next-env.d.ts
 
 # VsCode
 .vscode
+
+#ssh-key
+gh-pages
+gh-pages.pub
